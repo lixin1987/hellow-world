@@ -1,2 +1,4 @@
 # hellow-world
-just to begin using Git
+Begin using Git  
+A beginner in using Git!  
+Hello Git !!
